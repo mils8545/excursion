@@ -11,11 +11,22 @@ h1 {
 
 }
 
+h2 {
+    font-size: 42px;
+    color: white;
+    font-weight: 300;
+}
+
 a {
     color: aquamarine;
     font-size: 16px;
 }
 
 p {
-    color: Blue;
+    font-size: 21px;
+    color: Gray;
+}
+
+footer {
+    text-align: right;
 }
